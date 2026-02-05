@@ -1,7 +1,24 @@
 
 # 💫 About Me:
-I am an aspiring Data Analyst with hands-on experience working on real datasets, exploratory analysis, and dashboard visualization using Python, SQL, Power BI, and Excel. I enjoy learning by doing — whether it’s cleaning messy data, finding patterns, or creating dashboards that reveal meaningful insights.<br><br>During my Data Analytics internship, I worked with Python and SQL to analyze business data and designed interactive BI visuals that supported decision-making. I am actively learning advanced analytics, predictive modeling, and domain-based problem solving to strengthen my analytical foundation.<br><br>Recently completed my MCA, I’m strongly interested in entry-level opportunities where I can continue improving my skills, collaborate with experienced teams, and contribute to data-driven work environments.<br><br>Actively Learning:<br>✔ SQL for analytical querying<br>✔ DAX & Power BI reporting<br>✔ Scikit-learn modelling<br>✔ Data storytelling & presentation<br><br>Actively Seeking:<br>🔹 Data Analyst Intern<br>🔹 Junior Data Analyst<br>🔹 Business Analyst Trainee<br>🔹 SQL / Excel Analyst<br><br>#OpenToLearning<br><br>#EntryLevelDataAnalyst<br><br>#LookingForOpportunities<br><br>#DataIntern<br><br>#MCAStudent<br><br>#ActivelyLearning
-
+I am a data analytics enthusiast with hands-on experience in Python, SQL, and exploratory data analysis. I enjoy working with real-world datasets, cleaning messy data, identifying patterns, and communicating insights in a clear and practical way.
+Recently, I have been focusing on building interpretable data analytics pipelines with an emphasis on clean preprocessing, thoughtful feature engineering, and explainable models. I value feedback, iterative improvement, and open-source collaboration, and I actively work on projects that demonstrate structured analysis and insight-driven storytelling.
+✅ Actively Working On
+✔ Building interpretable data analytics pipelines
+✔ Exploratory Data Analysis (EDA) on real-world datasets
+✔ Python, SQL, and data preprocessing
+✔ Feature engineering & explainable ML (scikit-learn)
+✔ Insight-driven data storytelling
+✅ Interested In
+🔹 Data Analytics Intern / Trainee
+🔹 Junior Data Analyst
+🔹 Open-source data analytics contributions
+🔹 Research-oriented analytics projects
+#DataAnalytics
+#Python
+#SQL
+#EDA
+#MachineLearning
+#OpenSource
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamdineshnain) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dineshnain__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshnain1157) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@medium.com/dineshnain__) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dineshnain_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naindinesh186@gmail.com) 
